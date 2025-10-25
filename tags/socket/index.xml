@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Socket on Lý Thiên Phú Blog</title>
+    <link>http://localhost:1313/tags/socket/</link>
+    <description>Recent content in Socket on Lý Thiên Phú Blog</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 24 Oct 2025 20:30:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Socket trong Java: Giao tiếp Client - Server</title>
+      <link>http://localhost:1313/posts/java-socket/</link>
+      <pubDate>Fri, 24 Oct 2025 20:30:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/java-socket/</guid>
+      <description>Hiểu rõ cơ chế Socket trong Java và cách hai máy tính trao đổi dữ liệu.</description>
+    </item>
+    <item>
+      <title>Lập trình mạng trong Java</title>
+      <link>http://localhost:1313/posts/java-networking/</link>
+      <pubDate>Fri, 24 Oct 2025 20:20:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/java-networking/</guid>
+      <description>Tìm hiểu thư viện java.net giúp tạo ứng dụng client-server trong Java.</description>
+    </item>
+  </channel>
+</rss>

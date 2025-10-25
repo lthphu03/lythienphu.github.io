@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Async on Lý Thiên Phú Blog</title>
+    <link>http://localhost:1313/tags/async/</link>
+    <description>Recent content in Async on Lý Thiên Phú Blog</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 24 Oct 2025 21:20:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/async/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập trình bất đồng bộ với Async/Await</title>
+      <link>http://localhost:1313/posts/javascript-async-await/</link>
+      <pubDate>Fri, 24 Oct 2025 21:20:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-async-await/</guid>
+      <description>Hiểu rõ cơ chế bất đồng bộ trong JavaScript với async và await.</description>
+    </item>
+    <item>
+      <title>Gọi API với Fetch trong JavaScript</title>
+      <link>http://localhost:1313/posts/javascript-fetch-api/</link>
+      <pubDate>Fri, 24 Oct 2025 21:10:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-fetch-api/</guid>
+      <description>Học cách sử dụng Fetch API để lấy dữ liệu từ server trong JavaScript.</description>
+    </item>
+  </channel>
+</rss>

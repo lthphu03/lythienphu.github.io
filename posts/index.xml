@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Lý Thiên Phú Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Lý Thiên Phú Blog</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 25 Oct 2025 17:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Học Tập Cùng Bạn Bè - Cùng Nhau Phát Triển Kiến Thức &amp; Kỹ Năng</title>
+      <link>http://localhost:1313/posts/hoc-tap-cung-ban-be/</link>
+      <pubDate>Sat, 25 Oct 2025 17:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/hoc-tap-cung-ban-be/</guid>
+      <description>Tại sao học cùng bạn bè giúp bạn tiến bộ nhanh hơn, hiểu sâu hơn và học vui hơn.</description>
+    </item>
+    <item>
+      <title>Top Công Cụ AI Hữu Ích Cho Lập Trình Viên &amp; Người Sáng Tạo</title>
+      <link>http://localhost:1313/posts/cong-cu-ai/</link>
+      <pubDate>Sat, 25 Oct 2025 10:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/cong-cu-ai/</guid>
+      <description>Khám phá những công cụ AI mạnh mẽ giúp bạn học tập, sáng tạo và làm việc hiệu quả hơn.</description>
+    </item>
+    <item>
+      <title>Lập trình bất đồng bộ với Async/Await</title>
+      <link>http://localhost:1313/posts/javascript-async-await/</link>
+      <pubDate>Fri, 24 Oct 2025 21:20:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-async-await/</guid>
+      <description>Hiểu rõ cơ chế bất đồng bộ trong JavaScript với async và await.</description>
+    </item>
+    <item>
+      <title>Gọi API với Fetch trong JavaScript</title>
+      <link>http://localhost:1313/posts/javascript-fetch-api/</link>
+      <pubDate>Fri, 24 Oct 2025 21:10:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-fetch-api/</guid>
+      <description>Học cách sử dụng Fetch API để lấy dữ liệu từ server trong JavaScript.</description>
+    </item>
+    <item>
+      <title>Sự kiện trong JavaScript (Events)</title>
+      <link>http://localhost:1313/posts/javascript-event/</link>
+      <pubDate>Fri, 24 Oct 2025 21:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-event/</guid>
+      <description>Hiểu về sự kiện trong JavaScript – nền tảng của mọi tương tác người dùng.</description>
+    </item>
+    <item>
+      <title>DOM trong JavaScript</title>
+      <link>http://localhost:1313/posts/javascript-dom/</link>
+      <pubDate>Fri, 24 Oct 2025 20:50:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-dom/</guid>
+      <description>Tìm hiểu DOM – mô hình tài liệu giúp JavaScript tương tác với HTML.</description>
+    </item>
+    <item>
+      <title>Giới thiệu ngôn ngữ JavaScript</title>
+      <link>http://localhost:1313/posts/java-gioi-thieu/</link>
+      <pubDate>Fri, 24 Oct 2025 20:40:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/java-gioi-thieu/</guid>
+      <description>Giới thiệu tổng quan về JavaScript – ngôn ngữ linh hồn của web hiện đại.</description>
+    </item>
+    <item>
+      <title>Chào mừng đến với blog của Lý Thiên Phú</title>
+      <link>http://localhost:1313/posts/chao-mung/</link>
+      <pubDate>Fri, 24 Oct 2025 20:30:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/chao-mung/</guid>
+      <description>Bài viết đầu tiên giới thiệu blog cá nhân và mục tiêu chia sẻ kiến thức lập trình.</description>
+    </item>
+    <item>
+      <title>Socket trong Java: Giao tiếp Client - Server</title>
+      <link>http://localhost:1313/posts/java-socket/</link>
+      <pubDate>Fri, 24 Oct 2025 20:30:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/java-socket/</guid>
+      <description>Hiểu rõ cơ chế Socket trong Java và cách hai máy tính trao đổi dữ liệu.</description>
+    </item>
+    <item>
+      <title>Lập trình mạng trong Java</title>
+      <link>http://localhost:1313/posts/java-networking/</link>
+      <pubDate>Fri, 24 Oct 2025 20:20:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/java-networking/</guid>
+      <description>Tìm hiểu thư viện java.net giúp tạo ứng dụng client-server trong Java.</description>
+    </item>
+    <item>
+      <title>Lập trình đa luồng trong Java (Multithreading)</title>
+      <link>http://localhost:1313/posts/java-thread/</link>
+      <pubDate>Fri, 24 Oct 2025 20:10:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/java-thread/</guid>
+      <description>Tìm hiểu cách Java hỗ trợ lập trình đa luồng giúp chương trình xử lý song song hiệu quả hơn.</description>
+    </item>
+  </channel>
+</rss>

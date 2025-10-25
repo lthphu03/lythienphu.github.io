@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Interaction on Lý Thiên Phú Blog</title>
+    <link>http://localhost:1313/tags/interaction/</link>
+    <description>Recent content in Interaction on Lý Thiên Phú Blog</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 24 Oct 2025 21:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/interaction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sự kiện trong JavaScript (Events)</title>
+      <link>http://localhost:1313/posts/javascript-event/</link>
+      <pubDate>Fri, 24 Oct 2025 21:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-event/</guid>
+      <description>Hiểu về sự kiện trong JavaScript – nền tảng của mọi tương tác người dùng.</description>
+    </item>
+  </channel>
+</rss>

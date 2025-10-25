@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on Lý Thiên Phú Blog</title>
+    <link>http://localhost:1313/categories/javascript/</link>
+    <description>Recent content in JavaScript on Lý Thiên Phú Blog</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 24 Oct 2025 21:20:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập trình bất đồng bộ với Async/Await</title>
+      <link>http://localhost:1313/posts/javascript-async-await/</link>
+      <pubDate>Fri, 24 Oct 2025 21:20:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-async-await/</guid>
+      <description>Hiểu rõ cơ chế bất đồng bộ trong JavaScript với async và await.</description>
+    </item>
+    <item>
+      <title>Gọi API với Fetch trong JavaScript</title>
+      <link>http://localhost:1313/posts/javascript-fetch-api/</link>
+      <pubDate>Fri, 24 Oct 2025 21:10:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-fetch-api/</guid>
+      <description>Học cách sử dụng Fetch API để lấy dữ liệu từ server trong JavaScript.</description>
+    </item>
+    <item>
+      <title>Sự kiện trong JavaScript (Events)</title>
+      <link>http://localhost:1313/posts/javascript-event/</link>
+      <pubDate>Fri, 24 Oct 2025 21:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-event/</guid>
+      <description>Hiểu về sự kiện trong JavaScript – nền tảng của mọi tương tác người dùng.</description>
+    </item>
+    <item>
+      <title>DOM trong JavaScript</title>
+      <link>http://localhost:1313/posts/javascript-dom/</link>
+      <pubDate>Fri, 24 Oct 2025 20:50:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/javascript-dom/</guid>
+      <description>Tìm hiểu DOM – mô hình tài liệu giúp JavaScript tương tác với HTML.</description>
+    </item>
+    <item>
+      <title>Giới thiệu ngôn ngữ JavaScript</title>
+      <link>http://localhost:1313/posts/java-gioi-thieu/</link>
+      <pubDate>Fri, 24 Oct 2025 20:40:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/java-gioi-thieu/</guid>
+      <description>Giới thiệu tổng quan về JavaScript – ngôn ngữ linh hồn của web hiện đại.</description>
+    </item>
+  </channel>
+</rss>

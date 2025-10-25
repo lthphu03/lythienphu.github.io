@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Networking on Lý Thiên Phú Blog</title>
+    <link>http://localhost:1313/tags/networking/</link>
+    <description>Recent content in Networking on Lý Thiên Phú Blog</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 24 Oct 2025 20:20:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập trình mạng trong Java</title>
+      <link>http://localhost:1313/posts/java-networking/</link>
+      <pubDate>Fri, 24 Oct 2025 20:20:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/java-networking/</guid>
+      <description>Tìm hiểu thư viện java.net giúp tạo ứng dụng client-server trong Java.</description>
+    </item>
+  </channel>
+</rss>
